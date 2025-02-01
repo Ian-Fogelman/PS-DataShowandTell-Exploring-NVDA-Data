@@ -1,0 +1,20 @@
+Programming Links:
+
+1. API Reference: https://pypi.org/project/yfinance/
+2. API Reference: https://finnhub.io/
+3. Python Shiny Docs: https://shiny.posit.co/py/
+4. DuckDB Docs: https://duckdb.org/docs/api/python/overview.html
+5. Pandas Docs: https://pandas.pydata.org/docs/
+6. Shiny Themes - https://bootswatch.com/
+7. Twitter Bootstrap Docs: https://getbootstrap.com/docs/5.3/getting-started/introduction/
+
+Finance Links:
+
+1. https://www.nyse.com/markets/hours-calendars
+2. https://investor.nvidia.com/stock-info/investment-calculator/default.aspx
+3. https://stoculator.com/
+4. https://companiesmarketcap.com/nvidia/stock-splits/
+5. buy_date = "2014-09-22"
+   sell_date = "2025-01-24"
+   buy_price = $10,000 
+   Value = $3,020,010.59
