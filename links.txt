@@ -14,7 +14,3 @@ Finance Links:
 2. https://investor.nvidia.com/stock-info/investment-calculator/default.aspx
 3. https://stoculator.com/
 4. https://companiesmarketcap.com/nvidia/stock-splits/
-5. buy_date = "2014-09-22"
-   sell_date = "2025-01-24"
-   buy_price = $10,000 
-   Value = $3,020,010.59
